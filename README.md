@@ -1,2 +1,2 @@
 # Machine-Learning
-EDA code setup for Group 9
+Exploratory Data Analysis on the image dataset
